@@ -97,4 +97,4 @@ main.exe
 
 ## License
 
-Academic / personal project.
+For academic purposes only
